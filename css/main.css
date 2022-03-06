@@ -1,20 +1,19 @@
 html {
     box-sizing: border-box;
     background-color: #f2f1ed;
-    font-family: Georgia; serif;
+    font-family: Georgia, serif;
     line-height: 1.5;
   }
 
   *, *::before, *::after {
     box-sizing: inherit;
   }
-}
 
 img {
   width: 100%;
 }
 
-h1,h2 {
+h1 , h2 {
   color; #5d8432
   text-transform: uppercase;
 }
@@ -35,7 +34,7 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  color: #b42885
+  color: #b42885;
   text-decoration: underline;
 }
 .intro{
