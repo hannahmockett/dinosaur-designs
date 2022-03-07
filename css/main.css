@@ -17,6 +17,7 @@ h1, h2 {
   font-family: italic;
   color: #5d8432;
   text-transform: uppercase;
+  font-weight: bold;
 }
 
 figcaption {
@@ -26,7 +27,7 @@ figcaption {
 }
 
 nav {
-  font-family: bold;
+  font-family: sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
